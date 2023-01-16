@@ -1,2 +1,7 @@
 .vscode/
 CMakeFiles/
+CmakeCache.txt
+cmake_install.cmake
+AliceBob
+Makefile
+RequestLog.json

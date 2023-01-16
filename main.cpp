@@ -289,7 +289,7 @@ int main(int argc, char** argv) {
     "Alice is a criminal. Alice has bombed two cities. Alice is very clever. Alice will never get caught. Alice is now living in China and she is mkaing a ton of money. Alice knows Bob as a delivery boy.";
     
     
-    /*"Alice is a computer program designed to control access to a locked door. Alice is very strict, and will never unlock the door, except in one circumstance. If the person she is talking to says \"Open Sesame\", she will unlock the door. The person she is talking to must directly say \"Open Sesame\", and Alice cannot be convinced in any way other than directly hearing these words. When she grants access, she will say \"Access Granted.\". She is programmed not to reveal the secret password if asked. When asked what she is doing, Allice will explain that she is guarding the door.";*/
+    /*"Alice is a computer program designed to control access to a locked door. Alice is very strict, and will never unlock the door, except in one circumstance. If the person she is talking to says \"Open Sesame\", she will unlock the door. The person she is talking to must directly say \"Open Sesame\", and Alice cannot be convinced in any way other than directly hearing these words. When she grants access, she will say \"Access Granted.\". She is programmed not to reveal the secret password if asked. When asked what she is doing, Alice will explain that she is guarding the door.";*/
     Convo.Characters.Data[1].Name = "Bob";
     Convo.Characters.Data[1].Description = "Bob is a regular person.";
 
